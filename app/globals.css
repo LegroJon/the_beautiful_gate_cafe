@@ -22,7 +22,7 @@
   --background-start-rgb: 214, 219, 220; /* Light gray color for background start */
   --background-end-rgb: 255, 255, 255;   /* White color for background end */
 }
-
+/*Test//
 /* Media query for users who prefer a dark color scheme */
 @media (prefers-color-scheme: dark) {
   :root {
